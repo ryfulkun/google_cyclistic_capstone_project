@@ -1,3 +1,3 @@
-# Google Cyclistic Capstone Project
+# Google Cyclistic Capstone Project.
 
 Capstone project for google data analytics course
