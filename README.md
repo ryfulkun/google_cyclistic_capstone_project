@@ -4,7 +4,7 @@
 
 
 
-### ASK: Identify the Business Task:
+### Ask:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Cyclistic is a successful Bike sharing company with 5824 bicycles in its fleet, geotracked and locked into 692 Stations all across the city of Chicago. They also provide accessible bikes as well the standard 2 Wheeler Bikes to include all types of people.
 
@@ -50,7 +50,7 @@ The Dataset used consisted of 12 .cvs files which include columns:
 
 Upon Discovering such a large data set I have ruled out the use of excel as it would be far too time-consuming to load and clean the data, so I have decided my main tool will be to use R Programming. Once cleaned i can export summary .cvs files to do extended analysis. both R and excel will be used to visualization of the data.
 
-### Process and Analyze
+### Process and Analyze:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Firstly the data need to organise and clean the data before analysis is done
@@ -65,7 +65,7 @@ R programming is used to gather the datasets into one file and clean the data wh
 * [summary_of_ridelengths_weekday.xlsx](https://github.com/ryfulkun/google_cyclistic_capstone_project/files/7594250/summary_of_ridelengths_weekday.xlsx)
 * [Top 10 Stations.xlsx](https://github.com/ryfulkun/google_cyclistic_capstone_project/files/7594252/Top.10.Stations.xlsx)
 
-### Share
+### Share:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 I used Microsoft Powerpoint to share my key findings
@@ -73,7 +73,7 @@ I used Microsoft Powerpoint to share my key findings
 *[Cyclistic Data Analysis.pptx](https://github.com/ryfulkun/google_cyclistic_capstone_project/files/7594269/Cyclistic.Data.Analysis.pptx)
 
 
-### Share
+### Act:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Conclusions we have drawn from Analyzing the data are:
