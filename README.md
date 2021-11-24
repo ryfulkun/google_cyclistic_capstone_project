@@ -31,7 +31,7 @@ this will help us answer the main question "How do annual members and casual rid
 
 The data was provided by Cyclistic stored on their database server. It is given in .zip files and organised in .csv files. The Data user data from April 2020 - September 2021. The Data is secure and only provided for use of this analysis. All privacy information has been excluded and will not be included to answer the key questions.
 
-Upon Discovering such a large data set I have ruled out the use of excel as it would be far too time-consuming to load and clean the data, so I have decided my main tool will be to use R Programming. R would allow me to both load,clean,analyse and create visualizations to back my findings.
+Upon Discovering such a large data set I have ruled out the use of excel as it would be far too time-consuming to load and clean the data, so I have decided my main tool will be to use R Programming. Once cleaned i can export summary .cvs files to do extended analysis. both R and excel will be used to visualization of the data.
 
 
 
