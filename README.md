@@ -50,7 +50,7 @@ The Dataset used consisted of 12 .cvs files which include columns:
 
 Upon Discovering such a large data set I have ruled out the use of excel as it would be far too time-consuming to load and clean the data, so I have decided my main tool will be to use R Programming. Once cleaned i can export summary .cvs files to do extended analysis. both R and excel will be used to visualization of the data.
 
-### Process:
+### Process and Analyze
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Firstly the data need to organise and clean the data before analysis is done
@@ -58,19 +58,32 @@ Firstly the data need to organise and clean the data before analysis is done
 ### Tools 
 R programming is used to gather the datasets into one file and clean the data where Excel was used for further analysis.
 
-* Click here [markdown.zip](https://github.com/ryfulkun/google_cyclistic_capstone_project/files/7594176/markdown.zip) to view my R Markdown file for the complete analysis process used
+* Click here [markdown.zip](https://github.com/ryfulkun/google_cyclistic_capstone_project/files/7594176/markdown.zip) to download my R Markdown file for the complete analysis process used
+
+* Here are the indivdual files from my excel Analysis
+* [summary_of_ridelengths_month.xlsx](https://github.com/ryfulkun/google_cyclistic_capstone_project/files/7594236/summary_of_ridelengths_month.xlsx)
+* [summary_of_ridelengths_weekday.xlsx](https://github.com/ryfulkun/google_cyclistic_capstone_project/files/7594250/summary_of_ridelengths_weekday.xlsx)
+* [Top 10 Stations.xlsx](https://github.com/ryfulkun/google_cyclistic_capstone_project/files/7594252/Top.10.Stations.xlsx)
+
+### Share
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+I used Microsoft Powerpoint to share my key findings
+
+*[Cyclistic Data Analysis.pptx](https://github.com/ryfulkun/google_cyclistic_capstone_project/files/7594269/Cyclistic.Data.Analysis.pptx)
 
 
-```
+### Share
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+The Conclusions we have drawn from Analyzing the data are:
 
+* Casual users make up 41% of all riders but their ride durations are 3x longer
+* Casual users mainly use the service on the weekends and the summer months of june, july and august
+* Casual users are recreational users where as members use it for everyday means such as work.
 
+M< top recommendations are:
 
-
-
-
-
-
-
-
-
+* Have discounted rates seasonally especially for the summer months to attract casual users into memberships
+* Have discounted rates and packages for weekend rides
+* Focus promotional advertisements near or at the top 10 stations in the weekend and summer months.
