@@ -82,7 +82,7 @@ The Conclusions we have drawn from Analyzing the data are:
 * Casual users mainly use the service on the weekends and the summer months of june, july and august
 * Casual users are recreational users where as members use it for everyday means such as work.
 
-M< top recommendations are:
+My top recommendations are:
 
 * Have discounted rates seasonally especially for the summer months to attract casual users into memberships
 * Have discounted rates and packages for weekend rides
